@@ -11,3 +11,11 @@ ChatGPT på Fakultetets dag ved Det medisinske fakultet 19. april 2023  - Hva er
 OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 [![Google Slides Preview](assets/IBM-Teaching-Day-20230524-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vRUzCx__jTJcjFq5HH6LDinx8i_vXUFKAxmjk_IS4UyY75zPFP_BQtLPGaQ5gq-1EYY5D7FaKEPosdw/pub?start=false&loop=false&delayms=3000)
+
+
+# TkVestland, 22. juni 2023 (Kunstig intelligens)
+(TkVestland = Tannhelsetjenestens kompetansesenter Vestland)
+
+Kunstig intelligens - muligheter og utfordringer i medisin og helse
+
+[![Google Slides Preview](assets/TkVestland-20230622-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT9hRa2D1j2eJNWZAUvVLiKA5JFk8ZEKIwvneWXHsYoE0ZQotwJqr55vN8LAFwNk4p-EEvrsCO9b7Mv/pub?start=false&loop=false&delayms=3000)
