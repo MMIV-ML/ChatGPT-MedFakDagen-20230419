@@ -21,7 +21,7 @@ Kunstig intelligens - muligheter og utfordringer i medisin og helse
 [![Google Slides Preview](assets/TkVestland-20230622-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT9hRa2D1j2eJNWZAUvVLiKA5JFk8ZEKIwvneWXHsYoE0ZQotwJqr55vN8LAFwNk4p-EEvrsCO9b7Mv/pub?start=false&loop=false&delayms=3000)
 
 
-# Joint CEDAS-NORBIS Summer School: Bergen, 7-11 August 2023 (keynote)
+# CEDAS-NORBIS Summer School: Bergen, 7-11 August 2023 (keynote)
 
 AI and predictive modelling y ≈ f(X,θ) in medicine and biology
 
