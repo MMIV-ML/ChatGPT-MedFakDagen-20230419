@@ -21,7 +21,7 @@ Kunstig intelligens - muligheter og utfordringer i medisin og helse
 [![Google Slides Preview](assets/TkVestland-20230622-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT9hRa2D1j2eJNWZAUvVLiKA5JFk8ZEKIwvneWXHsYoE0ZQotwJqr55vN8LAFwNk4p-EEvrsCO9b7Mv/pub?start=false&loop=false&delayms=3000)
 
 
-# Joint CEDAS-NORBIS Summer School: Bergen, 7 August 2023 (keynote)
+# Joint CEDAS-NORBIS Summer School: Bergen, 7 Aug. 2023 (keynote)
 
 [JOINT CEDAS-NORBIS SUMMER SCHOOL on data science and its biomedical applications: Bergen, 7 – 11 August 2023](https://datascience2023.w.uib.no)
 
