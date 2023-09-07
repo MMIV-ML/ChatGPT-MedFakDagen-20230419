@@ -29,12 +29,6 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 # KIN Nettverksmøte #3 Store Språkmodeller 7 Sep. 2023
 
-[Kunstig intelligens i norsk helsetjeneste](https://ehealthresearch.no/kin)
-
-<--
-
-![slides-preview](assets/KIN-Nettverksmoete-Spraakmodeller-20230907-slides-preview.png)
-
--->
+[KIN = Kunstig intelligens i norsk helsetjeneste](https://ehealthresearch.no/kin)
 
 [![Google Slides Preview](assets/KIN-Nettverksmoete-Spraaakmodeller-20230907-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSwaldJo6yNLXmRgEtIXWUqYv9WAGUcTyvG1Q3PzhQKo8f7kiVntrIOHnTeFRQz0EJeX56Wg9BL9mK-/pub?start=false&loop=false&delayms=3000)
