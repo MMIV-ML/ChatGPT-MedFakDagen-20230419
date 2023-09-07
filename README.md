@@ -31,4 +31,6 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 [Kunstig intelligens i norsk helsetjeneste](https://ehealthresearch.no/kin)
 
+![slides-preview](assets/KIN-Nettverksmøte-Språkmodeller-20230907-slides-preview.png)
+
 [![Google Slides Preview](assets/KIN-Nettverksmøte-Språkmodeller-20230907-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSwaldJo6yNLXmRgEtIXWUqYv9WAGUcTyvG1Q3PzhQKo8f7kiVntrIOHnTeFRQz0EJeX56Wg9BL9mK-/pub?start=false&loop=false&delayms=3000)
