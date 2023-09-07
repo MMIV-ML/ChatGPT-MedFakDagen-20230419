@@ -33,7 +33,7 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 <--
 
-![slides-preview](assets/KIN-Nettverksmoete-Spraaakmodeller-20230907-slides-preview.png)
+![slides-preview](assets/KIN-Nettverksmoete-Spraakmodeller-20230907-slides-preview.png)
 
 -->
 
