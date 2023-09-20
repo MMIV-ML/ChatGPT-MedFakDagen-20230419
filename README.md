@@ -33,7 +33,7 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 [![Google Slides Preview](assets/KIN-Nettverksmoete-Spraakmodeller-20230907-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSwaldJo6yNLXmRgEtIXWUqYv9WAGUcTyvG1Q3PzhQKo8f7kiVntrIOHnTeFRQz0EJeX56Wg9BL9mK-/pub?start=false&loop=false&delayms=3000)
 
-# DIGI116 Medical Data Scienece  25 Sep. 2023
+# DIGI116 Medical Data Science, UiB  25 Sep. 2023
 
 [UiB DIGI-emner høsten 2023](https://www.uib.no/digi/162588/digi-emner-h%C3%B8sten-2023) - [DIGI116](https://www.uib.no/digi/162588/digi-emner-h%C3%B8sten-2023#digi116-nbsp-medical-data-science)
 
