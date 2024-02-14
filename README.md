@@ -62,4 +62,9 @@ Prompt ($X_1$): _Foreslå design og gjennomføring av et KI-prosjekt innen psyko
 Prompt ($X_2$): _Gi eksempler på data som bør samles inn hos en utvalg på 100 personer med ADHD og 50 kontroller og lag en csv-fil for en simulert datainnsamling_<br>
 Generert [respons](https://chat.openai.com/share/b5c31e86-8265-47b4-8ea3-10144ced1f6f) ($y_2$)
 
---> [[simulated_adhd_study_data.csv](./assets/simulated_adhd_study_data.csv)]; [[simulated_adhd_study_data.ipynb](https://nbviewer.org/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynb])] - 1-click notebook:  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynb)<br>
+--> [[simulated_adhd_study_data.csv](./assets/simulated_adhd_study_data.csv)]; [[simulated_adhd_study_data.ipynb]((https://nbviewer.org/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynn)] - 1-click notebook:  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynb)<br>
+
+
+![img](../assets/GPT-MedAI.png)<br>
+If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) and see if you can get it to answer some of your questions.
+
