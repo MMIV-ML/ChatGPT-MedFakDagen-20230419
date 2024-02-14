@@ -56,11 +56,11 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 $y \approx f(X, \theta)$, der ($f,\theta$) er GPT-4
 
 
-Prompt ($X_1$): _Foreslå design og gjennomføring av et KI-prosjekt innen psykoedukativ behandling hos voksne med ADHD_ 
+Prompt ($X_1$): _Foreslå design og gjennomføring av et KI-prosjekt innen psykoedukativ behandling hos voksne med ADHD_ <br>
 $\rightarrow$ Generert [respons](https://chat.openai.com/share/b3eddb96-ccac-4da2-9930-30f3084bb44a) ($y_1$)
 
 
-Prompt ($X_2$): _Gi eksempler på data som bør samles inn hos en utvalg på 100 personer med ADHD og 50 kontroller og lag en csv-fil for en simulert datainnsamling_ $/rightarrow$
+Prompt ($X_2$): _Gi eksempler på data som bør samles inn hos en utvalg på 100 personer med ADHD og 50 kontroller og lag en csv-fil for en simulert datainnsamling_ <br> $\rightarrow$
 Generert [respons](https://chat.openai.com/share/b5c31e86-8265-47b4-8ea3-10144ced1f6f) ($y_2$)
 
 --> [[simulated_adhd_study_data.csv](./assets/simulated_adhd_study_data.csv)]; [[simulated_adhd_study_data.ipynb](https://nbviewer.org/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynb)] - 1-click notebook:  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ChatGPT-MedFakDagen-20230419/blob/main/assets/simulated_adhd_study_data.ipynb)<br>
