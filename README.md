@@ -69,3 +69,6 @@ Generert [respons](https://chat.openai.com/share/b5c31e86-8265-47b4-8ea3-10144ce
 ![img](./assets/GPT-MedAI.png)<br>
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) and see if you can get it to answer some of your questions.
 
+# Protonseminar om forskning. Helse Bergen, 21 Mar 2024
+
+[![Google Slides Preview](assets/Protonseminar-om-forskning-20240321-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQWuLxhtmZV9I4H6K-aVfEDOetWz0iRnybRgPrgWE4SM9QzCC_DTZ89o-YElJuRW9VNa0CeqWhYANhy/pub?start=false&loop=false&delayms=3000)
