@@ -71,6 +71,15 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 -----
 
-# Protonseminar om forskning. Helse Bergen, 21 Mar 2024 [[link](https://www.helse-bergen.no/arrangementer/protonseminar-om-forsking2)]
+# Protonseminar om forskning. Helse Bergen, 21 Mar 2024 
+[[link](https://www.helse-bergen.no/arrangementer/protonseminar-om-forsking2)]
 
 [![Google Slides Preview](assets/Protonseminar-om-forskning-20240321-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQWuLxhtmZV9I4H6K-aVfEDOetWz0iRnybRgPrgWE4SM9QzCC_DTZ89o-YElJuRW9VNa0CeqWhYANhy/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# THO802 - KI i Helse, HVL 18 Apr 2024 
+[[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
+
+[![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20240418-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vRhwLi0GeYZmVdtKDnBMlZE4Pjg7tWQiCcSdiPQFa683cQYbKLyb1xM8QFlZetv7ZrBkUPPk3NAjlUB/pub?start=false&loop=false&delayms=3000)
+
