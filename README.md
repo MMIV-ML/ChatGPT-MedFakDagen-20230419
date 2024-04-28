@@ -71,6 +71,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 -----
 
-# Protonseminar om forskning. Helse Bergen, 21 Mar 2024 [[link](https://www.helse-bergen.no/arrangementer/protonseminar-om-forsking2)]
+# Protonseminar om forskning. Helse Bergen, 21 Mar 2024 
+[[link](https://www.helse-bergen.no/arrangementer/protonseminar-om-forsking2)]
 
 [![Google Slides Preview](assets/Protonseminar-om-forskning-20240321-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQWuLxhtmZV9I4H6K-aVfEDOetWz0iRnybRgPrgWE4SM9QzCC_DTZ89o-YElJuRW9VNa0CeqWhYANhy/pub?start=false&loop=false&delayms=3000)
