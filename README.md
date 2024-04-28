@@ -77,6 +77,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 [![Google Slides Preview](assets/Protonseminar-om-forskning-20240321-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQWuLxhtmZV9I4H6K-aVfEDOetWz0iRnybRgPrgWE4SM9QzCC_DTZ89o-YElJuRW9VNa0CeqWhYANhy/pub?start=false&loop=false&delayms=3000)
 
 -----
+
 # THO802 - KI i Helse, HVL 18 Apr 2024 
 [[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
 
