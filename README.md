@@ -86,7 +86,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ------
 
 # Filosofisk poliklinikk - KI i medisin og helse, Alrek, 3 Mai 2024 
-[«Hva skal medisinen med refleksjon og klokskap, når vi har kunstig intelligens?»(https://filosofiskpoliklinikk.no/03-05-2024)]
+[«Hva skal medisinen med refleksjon og klokskap, når vi har kunstig intelligens?»](https://filosofiskpoliklinikk.no/03-05-2024)
 
 [![Google Slides Preview](assets/filosofisk-poliklinikk-ki-alrek-20240503-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQiWd5hU_Gq4dnHUbMOvaYo9weBCBgJt9v7alqVJJc6hvORTepGqn0Mdy7VuW3TBbr_JdYbTBKxRDZP/pub?start=false&loop=false&delayms=3000)
 
