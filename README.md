@@ -40,7 +40,7 @@ OpenAI (ChatGPT) and LLMs: How to explore the possibilities?
 
 ----
 
-# DIGI116 Medical Data Science, UiB  25 Sep. 2023
+# DIGI116 Medical Data Science, UiB,  25 Sep. 2023
 
 [UiB DIGI-emner høsten 2023](https://www.uib.no/digi/162588/digi-emner-h%C3%B8sten-2023) - [DIGI116](https://www.uib.no/digi/162588/digi-emner-h%C3%B8sten-2023#digi116-nbsp-medical-data-science)
 
@@ -78,14 +78,15 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 -----
 
-# THO802 - KI i Helse, HVL 18 Apr 2024 
+# THO802 - KI i Helse, HVL, 18 Apr 2024 
 [[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
 
 [![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20240418-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vRhwLi0GeYZmVdtKDnBMlZE4Pjg7tWQiCcSdiPQFa683cQYbKLyb1xM8QFlZetv7ZrBkUPPk3NAjlUB/pub?start=false&loop=false&delayms=3000)
 
 ------
 
-# Filosofisk poliklinikk - KI i medisin og helse, Alrek 3 Mai 2024 
-[[«Hva skal medisinen med refleksjon og klokskap, når vi har kunstig intelligens?»](https://filosofiskpoliklinikk.no/03-05-2024)]
+# Filosofisk poliklinikk - KI i medisin og helse, Alrek, 3 Mai 2024 
+[«Hva skal medisinen med refleksjon og klokskap, når vi har kunstig intelligens?»(https://filosofiskpoliklinikk.no/03-05-2024)]
 
 [![Google Slides Preview](assets/filosofisk-poliklinikk-ki-alrek-20240503-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQiWd5hU_Gq4dnHUbMOvaYo9weBCBgJt9v7alqVJJc6hvORTepGqn0Mdy7VuW3TBbr_JdYbTBKxRDZP/pub?start=false&loop=false&delayms=3000)
+
