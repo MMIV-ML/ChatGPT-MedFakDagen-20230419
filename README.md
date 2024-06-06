@@ -90,3 +90,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 [![Google Slides Preview](assets/filosofisk-poliklinikk-ki-alrek-20240503-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQiWd5hU_Gq4dnHUbMOvaYo9weBCBgJt9v7alqVJJc6hvORTepGqn0Mdy7VuW3TBbr_JdYbTBKxRDZP/pub?start=false&loop=false&delayms=3000)
 
+------
+
+# K2 junior retreat - Using AI in Your Research, Alrek, June 7th 2024 
+[![Google Slides Preview](assets/K2-junior-retreat-PhD-AI-in-research-Alrek-20240607-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTiJepn62gADpoWGzT2SCGbmeIsSGDhnRrdw1EGNSgwO-05PbI6PrcxZ7MhoZg7n0E1w7VWMpYelYbz/pub?start=false&loop=false&delayms=3000)
