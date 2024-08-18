@@ -94,3 +94,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 # K2 junior retreat - Using AI in Your Research, Alrek, June 7th 2024 
 [![Google Slides Preview](assets/K2-junior-retreat-PhD-AI-in-research-Alrek-20240607-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTiJepn62gADpoWGzT2SCGbmeIsSGDhnRrdw1EGNSgwO-05PbI6PrcxZ7MhoZg7n0E1w7VWMpYelYbz/pub?start=false&loop=false&delayms=3000)
+
+------
+
+# IBM day at Hotel Scandic Ørnen, August 19th 2024
+[![Google Slides Preview](assets/AI-in-biomedical-research-Scandic-Bergen-20240819-slides-preview.png)](https://docs.google.com/presentation/d/1hTTLkmVdlFWOUCTrZiz3H7q78BpYibPOF2QhC4JJ9DM/pub?start=false&loop=false&delayms=3000)
