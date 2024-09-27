@@ -99,3 +99,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 # IBM day at Hotel Scandic Ørnen, Bergen, August 19th 2024
 [![Google Slides Preview](assets/AI-in-biomedical-research-Scandic-Bergen-20240819-slides-preview.png)](https://docs.google.com/presentation/d/1hTTLkmVdlFWOUCTrZiz3H7q78BpYibPOF2QhC4JJ9DM/pub?start=false&loop=false&delayms=3000)
+
+----
+
+# Hva har hjernen med irritabel tarm å gjøre?
+- hvordan nettverksteori og kunstig intelligens kan hjelpe oss i å forstå og behandle IBS <br>
+[link](https://docs.google.com/presentation/d/14EEU-7FlKJ4zyxRQ7UGJApHEQfHryJWa_UxNGpiiPdo/pub?start=false&loop=false&delayms=3000)
