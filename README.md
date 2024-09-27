@@ -105,5 +105,5 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 # Forskningsdagene Bergen, 27 Sept 2024
 [RESEARCHERS’ NIGHT 2024: Magemysteriet!](https://www.uib.no/med/172352/researchers%E2%80%99-night-2024-magemysteriet) 
 
-[![Google Slides Preview](assets/Forskningsdagene-Bergen-Magemysteriet-20240927-slides-prview.png)](https://docs.google.com/presentation/d/14EEU-7FlKJ4zyxRQ7UGJApHEQfHryJWa_UxNGpiiPdo/pub?start=false&loop=false&delayms=3000)
+[![Google Slides Preview](assets/Forskningsdagene-Bergen-Magemysteriet-20240927-slides-preview.png)](https://docs.google.com/presentation/d/14EEU-7FlKJ4zyxRQ7UGJApHEQfHryJWa_UxNGpiiPdo/pub?start=false&loop=false&delayms=3000)
 
