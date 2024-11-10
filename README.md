@@ -111,6 +111,6 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 # Shandong University, Jinan, China, 14 Nov 2024
 
-https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science
+https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  https://github.com/arvidl/glioma-growth
 
 [![Google Slides Preview](assets/Glioma-growth-Shandong-University-20241114-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTbxvD0O4QYR2hM9LgDefpb6ELPGs-2kHHC27iRMwSDWg0OS4iY0mvMt2jup5y_lAL4-AG0yj15Uvqq/pub?start=false&loop=false&delayms=3000)
