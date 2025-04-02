@@ -123,3 +123,9 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 [![Google Slides Preview](assets/Haukeland-Universitetssykehus-20250218-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT70-WYIhSUf5vp1tnFbIItColTS3KjMSlLd2z3Pg9hTU-DU75iL6EX_js1hFfptnqcK2A1lHmVY12w/pub?start=false&loop=false&delayms=3000)
 
+-----
+
+# THO802 - KI i Helse, HVL, 3 Apr 2025 
+[[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
+
+[![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20250403-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQ9kp-ILvWOWWn81arn0xjcB4BSiHIBCTuW_XSKg7YBCWcF7c6elFyg1H4fglFkkgSNlrWAyYrlSEVT/pub?start=false&loop=false&delayms=3000)
