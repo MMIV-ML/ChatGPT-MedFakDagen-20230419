@@ -129,3 +129,10 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 [[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
 
 [![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20250403-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQ9kp-ILvWOWWn81arn0xjcB4BSiHIBCTuW_XSKg7YBCWcF7c6elFyg1H4fglFkkgSNlrWAyYrlSEVT/pub?start=false&loop=false&delayms=3000)
+
+
+-----
+
+# Brain-Gut Meeting: AI in IBS Research - Part 1, AHH, 8 Apr 2025 
+
+[![Google Slides Preview](assets/Supercharging-IBS-Research-with-AI-Part1-20250408-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTxd52xV2MnnoFktPhpSjxG-ApNb6E1cSpjQ61tTkV8ElCVPih4oVo7FG3moAB8j85NJeOahhGIU4Zz/pub?start=false&loop=false&delayms=3000)
