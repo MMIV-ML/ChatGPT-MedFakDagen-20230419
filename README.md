@@ -139,7 +139,7 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 -----
 
-# Yngre Kreftlegers Kveldsmote (YKK), Bergen, 24 Apr 2025
+# Yngre Kreftlegers Kveldsmøte (YKK), Bergen, 24 Apr 2025
 
 [![Google Slides Preview](assets/Kunstig-intelligens-i-kreftdiagnostikk-og-behandling-YKK-20250424-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR6DLnL0Vs7Iv8oQ2Tpdv1s1ZypHVpvY1BQ738KrBXLH82AJVlyyunyeGydjKRldgS9Qm94L_PrGxiB/pub?start=false&loop=false&delayms=3000)
 
