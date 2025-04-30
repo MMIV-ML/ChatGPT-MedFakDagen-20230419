@@ -136,3 +136,17 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 # Brain-Gut Meeting: AI in IBS Research - Part 1, AHH, 8 Apr 2025 
 
 [![Google Slides Preview](assets/Supercharging-IBS-Research-with-AI-Part1-20250408-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTxd52xV2MnnoFktPhpSjxG-ApNb6E1cSpjQ61tTkV8ElCVPih4oVo7FG3moAB8j85NJeOahhGIU4Zz/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# Yngre Kreftlegers Kveldsmote (YKK), Bergen, 24 Apr 2025
+
+[![Google Slides Preview](assets/Kunstig-intelligens-i-kreftdiagnostikk-og-behandling-YKK-20250424-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR6DLnL0Vs7Iv8oQ2Tpdv1s1ZypHVpvY1BQ738KrBXLH82AJVlyyunyeGydjKRldgS9Qm94L_PrGxiB/pub?start=false&loop=false&delayms=3000)
+
+
+-----
+
+# MMIV Lunch seminar, 30 Apr 2025
+
+[![Google Slides Preview](assets/Boosting-scientific-research-with-AI-MMIV-20250430-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT5DnHoNbZNcNuVOoaw50OfR5VH1JS0N5MU6dDuFg7TuiT6nXexJ5ja6jLIrvcwdOIhpSBCdLTui5ph/pub?start=false&loop=false&delayms=3000)
+
