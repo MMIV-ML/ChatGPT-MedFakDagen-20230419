@@ -150,3 +150,8 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 [![Google Slides Preview](assets/Boosting-scientific-research-with-AI-MMIV-20250430-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vT5DnHoNbZNcNuVOoaw50OfR5VH1JS0N5MU6dDuFg7TuiT6nXexJ5ja6jLIrvcwdOIhpSBCdLTui5ph/pub?start=false&loop=false&delayms=3000)
 
+-----
+
+# UiB AI #15 May 9th 2025
+
+[![Google Slides Preview](assets/UiB-AI-no15-AI-in-higher-education-20250509-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTR_rOInTO6YfnOOh7ttnPNfk1JKn3mFn-U8NHTd3tHlwTx1Mz4dc9nu9oALdBkYXIRhAY4SCGKzJv8/pub?start=false&loop=false&delayms=3000)
