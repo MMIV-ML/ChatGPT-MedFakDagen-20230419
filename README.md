@@ -152,6 +152,6 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 -----
 
-# UiB AI #15 May 9th 2025
+# UiB AI [#15](https://www.uib.no/ai/177398/uib-ai-15-ai-higher-education-opportunities-limits-and-ethical-dilemmas) May 9th 2025
 
 [![Google Slides Preview](assets/UiB-AI-no15-AI-in-higher-education-20250509-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTR_rOInTO6YfnOOh7ttnPNfk1JKn3mFn-U8NHTd3tHlwTx1Mz4dc9nu9oALdBkYXIRhAY4SCGKzJv8/pub?start=false&loop=false&delayms=3000)
