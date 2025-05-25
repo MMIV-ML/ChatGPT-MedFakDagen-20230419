@@ -155,3 +155,9 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 # UiB AI [#15](https://www.uib.no/ai/177398/uib-ai-15-ai-higher-education-opportunities-limits-and-ethical-dilemmas) May 9th 2025
 
 [![Google Slides Preview](assets/UiB-AI-no15-AI-in-higher-education-20250509-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTR_rOInTO6YfnOOh7ttnPNfk1JKn3mFn-U8NHTd3tHlwTx1Mz4dc9nu9oALdBkYXIRhAY4SCGKzJv8/pub?start=false&loop=false&delayms=3000)
+
+
+-----
+
+# Seminar [eCardiacRehab](https://www.helse-bergen.no/en/procard/ecardiacrehab), Bikuben, May 26th 2025
+[![Google Slides Preview](assets/eHjerteRehab-HUS-20250526-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vS4y8Fpi3dZhOEs8amQOsYsmBfHwFbbyqgzgsoESt672U9SyEJRdPqwx8uDHddDsMgRL9B0p7B_dhOd/pub?start=false&loop=false&delayms=3000)
