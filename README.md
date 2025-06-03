@@ -161,3 +161,9 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 # Seminar [eCardiacRehab](https://www.helse-bergen.no/en/procard/ecardiacrehab), Bikuben, May 26th 2025
 [![Google Slides Preview](assets/eHjerteRehab-HUS-20250526-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vS4y8Fpi3dZhOEs8amQOsYsmBfHwFbbyqgzgsoESt672U9SyEJRdPqwx8uDHddDsMgRL9B0p7B_dhOd/pub?start=false&loop=false&delayms=3000)
+
+
+-----
+
+# HBF meeting [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF), Alrek, June 3rd 2025
+[![Google Slides Preview](assets/HBF-On-consciousness-resting-state-fMRI-and-neurodynamics-revisited-20250603-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSVHKFI55qFUZsLYAZnY0E50ThEdOQ57vACUeDFicVKX7u_50fXJsCZoNGk0Bhfn7T1D1WZYsp8qLPG/pub?start=false&loop=false&delayms=3000)
