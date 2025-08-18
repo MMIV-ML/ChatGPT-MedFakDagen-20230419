@@ -167,3 +167,8 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 # HBF meeting [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF), Alrek, June 3rd 2025
 [![Google Slides Preview](assets/HBF-On-consciousness-resting-state-fMRI-and-neurodynamics-revisited-20250603-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSVHKFI55qFUZsLYAZnY0E50ThEdOQ57vACUeDFicVKX7u_50fXJsCZoNGk0Bhfn7T1D1WZYsp8qLPG/pub?start=false&loop=false&delayms=3000)
+
+----- 
+
+# Opening Conference for [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/events/opening-conference-mathematical-challenges-brain-mechanics), CAS, Oslo, August 20th, 2025
+[![Google Slides Preview](assets/Glioma-precision-segmentation-al-CAS-20250820-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSFm0AybPBhkZPTGMDBWKPA3rTGHMEPgE0fCr1Npv1JniiwJYKic0CGFX0U9jJ31ZH4D65GjbcgvYDN/pub?start=false&loop=false&delayms=3000)
