@@ -175,7 +175,7 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 ----- 
 
-# MedAI - fremtidsutsikter, Bergen, Sept. 27th, 2025
+# MedAI - fremtidsutsikter, Solstrand, September 27th, 2025
 
 Solstrand, Bergen
 
