@@ -172,3 +172,11 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 
 # Opening Conference for [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/events/opening-conference-mathematical-challenges-brain-mechanics), CAS, Oslo, August 20th, 2025
 [![Google Slides Preview](assets/Glioma-precision-segmentation-al-CAS-20250820-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSFm0AybPBhkZPTGMDBWKPA3rTGHMEPgE0fCr1Npv1JniiwJYKic0CGFX0U9jJ31ZH4D65GjbcgvYDN/pub?start=false&loop=false&delayms=3000)
+
+----- 
+
+# MedAI - fremtidsutsikter, Bergen, Sept. 27th, 2025
+
+Solstrand, Bergen
+
+[![Google Slides Preview](assets/Samling_MedUiB_kull65_Solstrand_MedisinskAI_al20250927-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR_5awme5x6_ohdwv_CsVLfmt-oNwe69nyBOAW2llaIqwzpsrMMEl2g0BADQPZ5Mq9S5GwP89qW9OQI/pub?start=false&loop=false&delayms=3000)
