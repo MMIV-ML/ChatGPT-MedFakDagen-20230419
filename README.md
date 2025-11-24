@@ -180,3 +180,12 @@ https://www.en.sdu.edu.cn - Institute of Brain and Brain-Inspired Science  |  ht
 Solstrand, Bergen
 
 [![Google Slides Preview](assets/Samling_MedUiB_kull65_Solstrand_MedisinskAI_al20250927-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR_5awme5x6_ohdwv_CsVLfmt-oNwe69nyBOAW2llaIqwzpsrMMEl2g0BADQPZ5Mq9S5GwP89qW9OQI/pub?start=false&loop=false&delayms=3000)
+
+
+----- 
+
+# China-Europe Brain Science Conference, November 18th, 2025
+
+Qilu Hospital of Shandong University, Dezhou Hopital
+
+[![Google Slides Preview](assets/China-Europe_Brain_Science_Conference_Dezhou_al20251118-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTuNd9F3mDEv7HyenBmEzuwnxFHlj1rKacCcjupaAPKvTIZtMoskH1ybqniNc4C6kpCwQoRtIVUFYnW/pub?start=false&loop=false&delayms=3000)
