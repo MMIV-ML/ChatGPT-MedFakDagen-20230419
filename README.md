@@ -189,3 +189,8 @@ Solstrand, Bergen
 Qilu Hospital of Shandong University, Dezhou Hopital
 
 [![Google Slides Preview](assets/China-Europe_Brain_Science_Conference_Dezhou_al20251118-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTuNd9F3mDEv7HyenBmEzuwnxFHlj1rKacCcjupaAPKvTIZtMoskH1ybqniNc4C6kpCwQoRtIVUFYnW/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# HBF meeting [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF), Eitri, January 25th 2026
+[![Google Slides Preview](assets/HBF-AI-vs-HI-20260127-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSJu7wR-ZEbMDTYdMpAQrgEZ4ReZanOJVBGdN86HwT-4GRSOxnRv8qPx6Cp7v3wAFJCOfRERNirZTVP/pub?start=false&loop=false&delayms=3000)
