@@ -192,5 +192,5 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 
 -----
 
-# HBF meeting [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF), Eitri, January 25th 2026
+# HBF meeting  [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF) : <br>"AI vs HI", Eitri, January 25th 2026
 [![Google Slides Preview](assets/HBF-AI-vs-HI-20260127-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSJu7wR-ZEbMDTYdMpAQrgEZ4ReZanOJVBGdN86HwT-4GRSOxnRv8qPx6Cp7v3wAFJCOfRERNirZTVP/pub?start=false&loop=false&delayms=3000)
