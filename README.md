@@ -194,3 +194,10 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 
 # HBF meeting  [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF) : <br>"AI vs HI", Eitri, January 25th 2026
 [![Google Slides Preview](assets/HBF-AI-vs-HI-20260127-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSJu7wR-ZEbMDTYdMpAQrgEZ4ReZanOJVBGdN86HwT-4GRSOxnRv8qPx6Cp7v3wAFJCOfRERNirZTVP/pub?start=false&loop=false&delayms=3000)
+
+
+-----
+
+# Brain-Gut Seminar, Haukeland University Hospital, February 10th 2026<br>
+[[NotebookLM](https://notebooklm.google.com/notebook/83ef03eb-6c65-44c7-825b-a229e8f3cf4f)] [[Video](https://drive.google.com/file/d/16gkK_2xrX6Vb0jxphYK3l71CqN9xG721/view?usp=sharing)] [[Podcast](https://drive.google.com/file/d/1KZ7gs7g7LIvxF-r6tCNoXZGyGBXZMpsA/view?usp=sharing)]<br>
+[![Google Slides Preview](assets/Brain-Gut-seminar-PSN-IBS-20260210-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR0NkMGWuzBqKgwi8WH5JmAuJt7YiSLehMXZnveurHtkpqXsBegKQ7V75DhIRa_VVuCQCieoB75Y8t8/pub?start=false&loop=false&delayms=3000)
