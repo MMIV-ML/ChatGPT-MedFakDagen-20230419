@@ -209,5 +209,7 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 
 -----
 
-# BMED365 Summary and Reflections [BMED365-2026](https://github.com/arvidl/BMED365-2026) : UiB, February 27th 2026<br>
+# [BMED365](https://github.com/arvidl/BMED365-2026) Summary and Reflections: UiB, February 27th 2026<br>
 [![Google Slides Preview](assets/BMED365-Computational-Imaging-Modeling-and-AI-in-Biomedicine-20260227-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSPtpIQH-rK4AgjSY-05gcdswaLZagIc6nruMXfrzb1ENSTgF2zv9iRzLUzM-T46hmGedZp9WSP4uVO/pub?start=false&loop=false&delayms=3000)
+
+
