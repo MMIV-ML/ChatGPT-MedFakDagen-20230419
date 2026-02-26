@@ -206,3 +206,8 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 
 # HBF meeting  [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF) : <br>Empirical AI Consciousness and Gray's Comparator Model, Eitri, February 24th 2026
 [![Google Slides Preview](assets/HBF-Consciousness-Understanding_Mechanistic-Interpretability-20260224-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTXWiJDZtfjyg4KY0jLl8t3Z144CGGsXPvuFxw1KDBG_bQgXioIkPQ6iOVfA50Hr-D2W2ahVWMc26mS/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# BMED365 Summary and Reflections [BMED365-2026](https://github.com/arvidl/BMED365-2026) : UiB, February 27th 2026<br>
+[![Google Slides Preview](assets/BMED365-Computational-Imaging-Modeling-and-AI-in-Biomedicine-20260227-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSPtpIQH-rK4AgjSY-05gcdswaLZagIc6nruMXfrzb1ENSTgF2zv9iRzLUzM-T46hmGedZp9WSP4uVO/pub?start=false&loop=false&delayms=3000)
