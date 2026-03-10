@@ -215,5 +215,5 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 ----- 
 
 # Workshop [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/project/mathematical-challenges-brain-mechanics), Finse 1222, 9-11 March 2026
-[![Google Slides Preview](assets/Glioma-precision-segmentation-al-CAS-20250820-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTqq4zs_p36AQhURyK7SFhTjpBDl3_QwR891mXtFempPLvF9IPisSUCnLJt9vuz60oKgs4BAU0vvtBj/pub?start=false&loop=false&delayms=3000)
+[![Google Slides Preview](assets/Glioma-Brain-Digital-Twin-Finse26-al-CAS-20260311-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTqq4zs_p36AQhURyK7SFhTjpBDl3_QwR891mXtFempPLvF9IPisSUCnLJt9vuz60oKgs4BAU0vvtBj/pub?start=false&loop=false&delayms=3000)
 
