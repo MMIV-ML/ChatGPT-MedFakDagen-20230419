@@ -212,4 +212,8 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 # [BMED365](https://github.com/arvidl/BMED365-2026) Summary and Reflections: UiB, February 27th 2026<br>
 [![Google Slides Preview](assets/BMED365-Computational-Imaging-Modeling-and-AI-in-Biomedicine-20260227-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSPtpIQH-rK4AgjSY-05gcdswaLZagIc6nruMXfrzb1ENSTgF2zv9iRzLUzM-T46hmGedZp9WSP4uVO/pub?start=false&loop=false&delayms=3000)
 
+----- 
+
+# Workshop [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/events/opening-conference-mathematical-challenges-brain-mechanics), Finse 1222, 9-11 March 2026
+[![Google Slides Preview](assets/Glioma-precision-segmentation-al-CAS-20250820-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTqq4zs_p36AQhURyK7SFhTjpBDl3_QwR891mXtFempPLvF9IPisSUCnLJt9vuz60oKgs4BAU0vvtBj/pub?start=false&loop=false&delayms=3000)
 
