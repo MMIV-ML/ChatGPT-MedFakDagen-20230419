@@ -217,3 +217,11 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 # Workshop [Mathematical Challenges in Brain Mechanics](https://cas-nor.no/project/mathematical-challenges-brain-mechanics), Finse 1222, 9-11 March 2026
 [![Google Slides Preview](assets/Glioma-Brain-Digital-Twin-Finse26-al-CAS-20260311-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTqq4zs_p36AQhURyK7SFhTjpBDl3_QwR891mXtFempPLvF9IPisSUCnLJt9vuz60oKgs4BAU0vvtBj/pub?start=false&loop=false&delayms=3000)
 
+-----
+
+# THO802 - KI i Helse, HVL, 9 Apr 2026 
+[[THO802](https://www.hvl.no/studier/studieprogram/emne/THO802)]
+
+[![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20260409-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgNis1ri7ZyaB6PMe4X3vVTY7BYanVDdktyB196LogRuNj01fMuY-zIbs508ieuPhzucy4FFlTnRPT/pub?start=false&loop=false&delayms=3000)
+
+
