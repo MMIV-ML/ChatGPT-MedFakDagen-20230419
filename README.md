@@ -224,6 +224,7 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 
 [![Google Slides Preview](assets/THO802-HVL-Kunstig-Intelligens-i-Helse-20260409-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSgNis1ri7ZyaB6PMe4X3vVTY7BYanVDdktyB196LogRuNj01fMuY-zIbs508ieuPhzucy4FFlTnRPT/pub?start=false&loop=false&delayms=3000)
 
+-----
 
 # HBF meeting  [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF) : <br>On the Science of Artificial Intelligence and Consciousness, Eitri, September 29th 2026
 [![Google Slides Preview](assets/HBF-On-the-Science-of-AI-and-Consciousness-20260929-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTPxkTkGg5c3IHRLUdMBJZf-9v7jfPixOn5hOzqrSTiO1uzqJjoabtHcKG5mPultgqEJVtuZtYQR_u6/pub?start=false&loop=false&delayms=3000)
