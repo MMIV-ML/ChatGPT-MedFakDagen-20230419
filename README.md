@@ -229,5 +229,11 @@ Qilu Hospital of Shandong University, Dezhou Hopital
 # HBF meeting  [Brain & Consciousness](https://github.com/Brain-and-Consciousness/HBF) : <br>On the Science of Artificial Intelligence and Consciousness, Eitri, September 29th 2026
 [![Google Slides Preview](assets/HBF-On-the-Science-of-AI-and-Consciousness-20260929-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vTPxkTkGg5c3IHRLUdMBJZf-9v7jfPixOn5hOzqrSTiO1uzqJjoabtHcKG5mPultgqEJVtuZtYQR_u6/pub?start=false&loop=false&delayms=3000)
 
+-----
 
+# China-Europe Neurosurgery Academic Symposium, Jinan, 22-25 October 2026
 
+Talk: **AI-assisted Glioma Research - Imaging, Tumor-Brain Interactions, and Cognition** <br>
+Companion GitHub repo: [https://github.com/arvidl/AI-assisted-glioma-research](https://github.com/arvidl/AI-assisted-glioma-research)
+
+[![Google Slides Preview](assets/China-Europe_Neurosurgery_Academic_Symposium_Jinan_al20261023-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSWp_Tyib7-gBi06ZyX3ZOEDc0Y1JSJIUvDtN6k12fx66-nc_bZIq411e1Zf_i6nIjDNd54udA9EXYo/pub?start=false&loop=false&delayms=3000)
