@@ -237,3 +237,12 @@ Talk: **AI-assisted Glioma Research - Imaging, Tumor-Brain Interactions, and Cog
 Companion GitHub repo: [https://github.com/arvidl/AI-assisted-glioma-research](https://github.com/arvidl/AI-assisted-glioma-research)
 
 [![Google Slides Preview](assets/China-Europe_Neurosurgery_Academic_Symposium_Jinan_al20261023-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vSWp_Tyib7-gBi06ZyX3ZOEDc0Y1JSJIUvDtN6k12fx66-nc_bZIq411e1Zf_i6nIjDNd54udA9EXYo/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# [PRESIMAL](https://mmiv.no/presimal): Artificial Intelligence in Medical Imaging, Autumn Research School joint with [NORA-HS](https://www.nora.ai/nora-research-school/nora-hs), Sola Strand Hotel, 4-6 November 2026
+
+Keynote: **From Brains to Models: What AI Reveals About Being Human** <br>
+Companion GitHub repo: [https://github.com/arvidl/brains-to-models](https://github.com/arvidl/brains-to-models)
+
+[![Google Slides Preview](assets/PRESIMAL-Sola-From-Brains-to-Models-What-AI-Reveals-About-Being-Human-20261105-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQYRZnUC5Ae8V7WGU5Gw1XjBR4-0Ez_DUImMWuV4mgNcOI_JADfLvSEEagQYJXCipluD4p232XmfuGo/pub?start=false&loop=false&delayms=3000)
