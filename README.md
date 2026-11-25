@@ -246,3 +246,10 @@ Keynote: **From Brains to Models: What AI Reveals About Being Human** <br>
 Companion GitHub repo: [https://github.com/arvidl/brains-to-models](https://github.com/arvidl/brains-to-models)
 
 [![Google Slides Preview](assets/PRESIMAL-Sola-From-Brains-to-Models-What-AI-Reveals-About-Being-Human-20261105-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vQYRZnUC5Ae8V7WGU5Gw1XjBR4-0Ez_DUImMWuV4mgNcOI_JADfLvSEEagQYJXCipluD4p232XmfuGo/pub?start=false&loop=false&delayms=3000)
+
+-----
+
+# MMIV Lunch seminar, 25 Nov 2026
+
+[![Google Slides Preview](assets/Boosting-scientific-research-with-AI-MMIV-20261125-slides-preview.png)](https://docs.google.com/presentation/d/e/2PACX-1vR6LDk-jN7t6OrxL0ya1Bx3YCT7KDMuIX4HQU-Ro8YcIZqCvGFzl_PFaKIYWxx7byKiFiGZtZviLUxs/pub?start=false&loop=false&delayms=3000)
+
